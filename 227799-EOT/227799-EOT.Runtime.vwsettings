@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VisiWin.Settings version="1.0">
+  <Section name="DashboardConfigurations">
+    <Section name="dashboard">
+      <Section name="defaultConfiguration">
+        <Section name="00">
+          <Entry name="Row" type="System.Int32" value="0" />
+          <Entry name="Column" type="System.Int32" value="0" />
+          <Entry name="ViewName" type="System.String" value="DB_Widget_Clock" />
+          <Entry name="IsPinned" type="System.Boolean" value="False" />
+        </Section>
+        <Section name="02">
+          <Entry name="Row" type="System.Int32" value="0" />
+          <Entry name="Column" type="System.Int32" value="2" />
+          <Entry name="ViewName" type="System.String" value="DB_Widget_FP_Logo" />
+          <Entry name="IsPinned" type="System.Boolean" value="False" />
+        </Section>
+        <Section name="10">
+          <Entry name="Row" type="System.Int32" value="1" />
+          <Entry name="Column" type="System.Int32" value="0" />
+          <Entry name="ViewName" type="System.String" value="DB_Widget_Calendar" />
+          <Entry name="IsPinned" type="System.Boolean" value="False" />
+        </Section>
+        <Section name="11">
+          <Entry name="Row" type="System.Int32" value="1" />
+          <Entry name="Column" type="System.Int32" value="1" />
+          <Entry name="ViewName" type="System.String" value="DB_Widget_PHZT" />
+          <Entry name="IsPinned" type="System.Boolean" value="False" />
+        </Section>
+        <Section name="12">
+          <Entry name="Row" type="System.Int32" value="1" />
+          <Entry name="Column" type="System.Int32" value="2" />
+          <Entry name="ViewName" type="System.String" value="DB_Widget_PSW" />
+          <Entry name="IsPinned" type="System.Boolean" value="False" />
+        </Section>
+        <Section name="21">
+          <Entry name="Row" type="System.Int32" value="2" />
+          <Entry name="Column" type="System.Int32" value="1" />
+          <Entry name="ViewName" type="System.String" value="DB_Widget_PSC" />
+          <Entry name="IsPinned" type="System.Boolean" value="False" />
+        </Section>
+      </Section>
+      <Section name="SWE">
+        <Section name="00">
+          <Entry name="Row" type="System.Int32" value="0" />
+          <Entry name="Column" type="System.Int32" value="0" />
+          <Entry name="ViewName" type="System.String" value="DB_Widget_Clock" />
+          <Entry name="IsPinned" type="System.Boolean" value="False" />
+        </Section>
+        <Section name="02">
+          <Entry name="Row" type="System.Int32" value="0" />
+          <Entry name="Column" type="System.Int32" value="2" />
+          <Entry name="ViewName" type="System.String" value="DB_Widget_FP_Logo" />
+          <Entry name="IsPinned" type="System.Boolean" value="False" />
+        </Section>
+        <Section name="10">
+          <Entry name="Row" type="System.Int32" value="1" />
+          <Entry name="Column" type="System.Int32" value="0" />
+          <Entry name="ViewName" type="System.String" value="DB_Widget_Calendar" />
+          <Entry name="IsPinned" type="System.Boolean" value="False" />
+        </Section>
+        <Section name="11">
+          <Entry name="Row" type="System.Int32" value="1" />
+          <Entry name="Column" type="System.Int32" value="1" />
+          <Entry name="ViewName" type="System.String" value="DB_Widget_PT" />
+          <Entry name="IsPinned" type="System.Boolean" value="False" />
+        </Section>
+        <Section name="20">
+          <Entry name="Row" type="System.Int32" value="2" />
+          <Entry name="Column" type="System.Int32" value="0" />
+          <Entry name="ViewName" type="System.String" value="DB_Widget_PSW" />
+          <Entry name="IsPinned" type="System.Boolean" value="False" />
+        </Section>
+        <Section name="22">
+          <Entry name="Row" type="System.Int32" value="2" />
+          <Entry name="Column" type="System.Int32" value="2" />
+          <Entry name="ViewName" type="System.String" value="DB_Widget_TY" />
+          <Entry name="IsPinned" type="System.Boolean" value="False" />
+        </Section>
+      </Section>
+    </Section>
+  </Section>
+</VisiWin.Settings>
